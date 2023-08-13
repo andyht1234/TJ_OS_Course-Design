@@ -1,1 +1,3 @@
 # TJ_OS_Course-Design
+代码中单拎出来的都是主要代码，在vscode中写完后插入kernel codes中。
+文件夹中代码复制到labs中即可直接运行（包括上面单拎的codes及直接写在内核中的codes）
